@@ -1,0 +1,14 @@
+c:\users\michal\documents\visual studio 2010\Projects\PostgresEditor\PostgresEditor\bin\Debug\PostgresEditor.exe
+c:\users\michal\documents\visual studio 2010\Projects\PostgresEditor\PostgresEditor\bin\Debug\PostgresEditor.pdb
+c:\users\michal\documents\visual studio 2010\Projects\PostgresEditor\PostgresEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\michal\documents\visual studio 2010\Projects\PostgresEditor\PostgresEditor\obj\x86\Debug\PostgresEditor.Form1.resources
+c:\users\michal\documents\visual studio 2010\Projects\PostgresEditor\PostgresEditor\obj\x86\Debug\PostgresEditor.Properties.Resources.resources
+c:\users\michal\documents\visual studio 2010\Projects\PostgresEditor\PostgresEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\michal\documents\visual studio 2010\Projects\PostgresEditor\PostgresEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\michal\documents\visual studio 2010\Projects\PostgresEditor\PostgresEditor\obj\x86\Debug\PostgresEditor.exe
+c:\users\michal\documents\visual studio 2010\Projects\PostgresEditor\PostgresEditor\obj\x86\Debug\PostgresEditor.pdb
+c:\users\michal\documents\visual studio 2010\Projects\PostgresEditor\PostgresEditor\bin\Debug\PostgresEditor.exe.config
+c:\users\michal\documents\visual studio 2010\Projects\PostgresEditor\PostgresEditor\bin\Debug\Npgsql.dll
+c:\users\michal\documents\visual studio 2010\Projects\PostgresEditor\PostgresEditor\bin\Debug\Mono.Security.dll
+c:\users\michal\documents\visual studio 2010\Projects\PostgresEditor\PostgresEditor\bin\Debug\Npgsql.pdb
+c:\users\michal\documents\visual studio 2010\Projects\PostgresEditor\PostgresEditor\bin\Debug\Npgsql.xml
