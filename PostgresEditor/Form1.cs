@@ -52,7 +52,7 @@ namespace PostgresEditor
              for (int i = 0; i < richTextBoxZapytanie.Lines.Count(); i++)
              {
 
-                // richTextBoxTabele.Text = richTextBoxZapytanie.Lines[i];
+                
 
                  zap += String.Format(richTextBoxZapytanie.Lines[i]);
                  zap += String.Format(" ");
